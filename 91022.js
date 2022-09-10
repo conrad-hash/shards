@@ -2,7 +2,7 @@
 	{
 		author:"Conrad",
 		timestamp: "19:18",
-		text: "We have balls
+		text: "We have balls 
 			And we have fires
 			But we’re afraid
 			To pursue our worst desires"
@@ -20,7 +20,7 @@
 	{
 		author: "Conrad",
 		timestamp: "19:25",
-		text:"Give me the certainty of my objective
+		text:"Give me the certainty of my objective 
 			And then I will kill the demon i myself created.
 			But before I change this narrow perspective,
 			I am captive."
